@@ -1,4 +1,4 @@
-# Awesome Forwarder Bot For TG
+# Awesome Forward Bot For TG
 * Bot to forward messages from one channel to other without admin permission in source channel.
 * Can be used for both private and Public channels.
 * Bot Index message from channel and saves to database, further forwards and deletes each messages from database.Use of database was to Remove duplicacy of files.
