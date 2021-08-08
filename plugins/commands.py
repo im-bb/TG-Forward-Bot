@@ -14,7 +14,7 @@ buttons=InlineKeyboardMarkup(
                 InlineKeyboardButton("How Does This Works?", callback_data="abt")
             ],
             [
-                InlineKeyboardButton("Source Code", url="https://github.com/im-bb/Tg_Forwarder"),
+                InlineKeyboardButton("Source Code", url="https://github.com/im-bb/Forward_TG"),
                 InlineKeyboardButton("Report a Bug", url="https://t.me/im_bb1")
             ]
         ]
@@ -64,7 +64,7 @@ async def cb_abt(bot, cb):
     reply_markup=InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("Source", url="https://github.com/im-bb/Tg_Forwarder"),
+                InlineKeyboardButton("Source", url="https://github.com/im-bb/Forward_TG"),
             ]
         ]
     )
