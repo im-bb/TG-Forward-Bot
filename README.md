@@ -10,7 +10,7 @@
 
 ### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 
 <details>
-  <summary><b>Deploy on Heroku</b></summary>
+  <summary><b>𝖣𝖾𝗉𝗅𝗈𝗒 𝗈𝗇 𝖧𝖾𝗋𝗈𝗄𝗎</b></summary>
 <br/>
 
 <p align="left">
@@ -25,7 +25,7 @@
 
 ## 𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦
 <details>
-  <summary><b>See variables</b></summary>
+  <summary><b>𝖲𝖾𝖾 𝖵𝖺𝗋𝗂𝖺𝖻𝗅𝖾𝗌</b></summary>
 <br/>
    
 * `API_HASH` API Hash from my.telegram.org
@@ -44,10 +44,12 @@
 
 ## 𝗖𝗥𝗘𝗗𝗜𝗧𝗦
 <details>
-  <summary><b>See Credits</b></summary>
+  <summary><b>𝖲𝖾𝖾 𝖢𝗋𝖾𝖽𝗂𝗍𝗌</b></summary>
 <br/>
 
 * [DⱥℝkAngel](https://github.com/Jijinr) 
 * [Rahul](https://github.com/rahulps1000) 
 
 </details>
+
+___
