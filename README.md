@@ -13,7 +13,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Remove-BG-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/im-bb/Forward_TG">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
