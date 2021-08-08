@@ -52,7 +52,7 @@
   <summary><b>𝖲𝖾𝖾 𝖢𝗋𝖾𝖽𝗂𝗍𝗌</b></summary>
 <br/>
 
-* [DⱥℝkAngel](https://github.com/Jijinr) 
+* [DⱥℝkͥAnͣgͫeℓ](https://github.com/Jijinr) 
 * [Rahul](https://github.com/rahulps1000) 
 * [SUBIN](https://github.com/subinps)
 </details>
