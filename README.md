@@ -34,14 +34,14 @@
 <br/>
    
 * `API_HASH` 𝖠𝖯𝖨 𝖧𝖺𝗌𝗁 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
-* `API_ID`𝖠𝖯𝖨 𝖨𝖽 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
-* `BOT_TOKEN`𝖡𝗈𝗍 𝖳𝗈𝗄𝖾𝗇 𝖥𝗋𝗈𝗆 [@𝖡𝗈𝗍𝖥𝖺𝗍𝗁𝖾𝗋](https://telegram.dog/BotFather)
+* `API_ID` 𝖠𝖯𝖨 𝖨𝖽 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
+* `BOT_TOKEN` 𝖡𝗈𝗍 𝖳𝗈𝗄𝖾𝗇 𝖥𝗋𝗈𝗆 [@𝖡𝗈𝗍𝖥𝖺𝗍𝗁𝖾𝗋](https://telegram.dog/BotFather)
 * `OWNER_ID` 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖨𝖣 𝖮𝖿 𝖮𝗐𝗇𝖾𝗋.
 * `TO_CHANNEL` 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖮𝖿 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖳𝗈 𝖶𝗁𝗂𝖼𝗁 𝖬𝖾𝗌𝗌𝖺𝗀𝖾𝗌 𝖠𝗋𝖾 𝖥𝗈𝗋𝗐𝖺𝗋𝖽𝖾𝖽 𝖤𝗀:- -100xxxxxxxx
 * `SESSION` 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖲𝖾𝗌𝗌𝗂𝗈𝗇 𝖲𝗍𝗋𝗂𝗇𝗀 𝖦𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝖥𝗋𝗈𝗆 𝖧𝖾𝗋𝖾 [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
-* `DATABASE_URI` Database uri from [MongoDB](https://cloud.mongodb.com/)
-* `DATABASE_NAME` Database Cluster name
-* `COLLECTION_NAME` Database Collection name.
+* `DATABASE_URI` 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 𝖴𝗋𝗂 𝖥𝗋𝗈𝗆 [𝖬𝗈𝗇𝗀𝗈𝖣𝖡](https://cloud.mongodb.com/)
+* `DATABASE_NAME` 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 𝖢𝗅𝗎𝗌𝗍𝖾𝗋 𝖭𝖺𝗆𝖾.
+* `COLLECTION_NAME` 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇 𝖭𝖺𝗆𝖾.
   
 </details>
 
