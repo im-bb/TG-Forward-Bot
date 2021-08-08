@@ -9,7 +9,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/im-bb/Tg_Forwarder",
+  "repository": "https://github.com/im-bb/Forward_TG",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
