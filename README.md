@@ -34,7 +34,7 @@
 <br/>
    
 * `API_HASH` 𝖠𝖯𝖨 𝖧𝖺𝗌𝗁 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
-* `API_ID` 𝖠𝖯𝖨 𝖨𝖽 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
+* `API_ID` 𝖠𝖯𝖨 𝖨𝖣 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
 * `BOT_TOKEN` 𝖡𝗈𝗍 𝖳𝗈𝗄𝖾𝗇 𝖥𝗋𝗈𝗆 [@𝖡𝗈𝗍𝖥𝖺𝗍𝗁𝖾𝗋](https://telegram.dog/BotFather)
 * `OWNER_ID` 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖨𝖣 𝖮𝖿 𝖮𝗐𝗇𝖾𝗋.
 * `TO_CHANNEL` 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖮𝖿 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖳𝗈 𝖶𝗁𝗂𝖼𝗁 𝖬𝖾𝗌𝗌𝖺𝗀𝖾𝗌 𝖠𝗋𝖾 𝖥𝗈𝗋𝗐𝖺𝗋𝖽𝖾𝖽 𝖤𝗀:- -100xxxxxxxx
