@@ -33,15 +33,15 @@
   <summary><b>𝖲𝖾𝖾 𝖵𝖺𝗋𝗂𝖺𝖻𝗅𝖾𝗌</b></summary>
 <br/>
    
-* `API_HASH` 𝖠𝖯𝖨 𝖧𝖺𝗌𝗁 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
-* `API_ID` 𝖠𝖯𝖨 𝖨𝖣 𝖥𝗋𝗈𝗆 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
-* `BOT_TOKEN` 𝖡𝗈𝗍 𝖳𝗈𝗄𝖾𝗇 𝖥𝗋𝗈𝗆 [@𝖡𝗈𝗍𝖥𝖺𝗍𝗁𝖾𝗋](https://telegram.dog/BotFather)
-* `OWNER_ID` 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖨𝖣 𝖮𝖿 𝖮𝗐𝗇𝖾𝗋.
-* `TO_CHANNEL` 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖮𝖿 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖳𝗈 𝖶𝗁𝗂𝖼𝗁 𝖬𝖾𝗌𝗌𝖺𝗀𝖾𝗌 𝖠𝗋𝖾 𝖥𝗈𝗋𝗐𝖺𝗋𝖽𝖾𝖽 𝖤𝗀:- -100xxxxxxxx
-* `SESSION` 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖲𝖾𝗌𝗌𝗂𝗈𝗇 𝖲𝗍𝗋𝗂𝗇𝗀 𝖦𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝖥𝗋𝗈𝗆 𝖧𝖾𝗋𝖾 [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-blue)](https://repl.it/@subinps/getStringName)
-* `DATABASE_URI` 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 𝖴𝗋𝗂 𝖥𝗋𝗈𝗆 [𝖬𝗈𝗇𝗀𝗈𝖣𝖡](https://cloud.mongodb.com/)
-* `DATABASE_NAME` 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 𝖢𝗅𝗎𝗌𝗍𝖾𝗋 𝖭𝖺𝗆𝖾.
-* `COLLECTION_NAME` 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇 𝖭𝖺𝗆𝖾.
+* `API_HASH` 𝗔𝗣𝗜 𝗛𝗔𝗦𝗛 𝗙𝗥𝗢𝗠 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
+* `API_ID` 𝗔𝗣𝗜 𝗜𝗗 𝗙𝗥𝗢𝗠 [𝗆𝗒.𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆.𝗈𝗋𝗀](https://my.telegram.org/)
+* `BOT_TOKEN` 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗙𝗥𝗢𝗠 [@𝖡𝗈𝗍𝖥𝖺𝗍𝗁𝖾𝗋](https://telegram.dog/BotFather)
+* `OWNER_ID` 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗜𝗗 𝗢𝗙 𝗢𝗪𝗡𝗘𝗥.
+* `TO_CHANNEL` 𝗜𝗗 𝗢𝗙 𝗔 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗪𝗛𝗘𝗥𝗘 𝗠𝗘𝗦𝗦𝗔𝗚𝗘𝗦 𝗦𝗛𝗢𝗨𝗟𝗗 𝗕𝗘 𝗙𝗢𝗥𝗪𝗔𝗥𝗗𝗘𝗗 𝗧𝗢 𝗘𝗚:- -100xxxxxxxx
+* `SESSION` 𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗧𝗥𝗜𝗡𝗚 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘 𝗙𝗥𝗢𝗠 𝗛𝗘𝗥𝗘 [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-blue)](https://repl.it/@subinps/getStringName)
+* `DATABASE_URI` 𝗗𝗔𝗧𝗔 𝗕𝗔𝗦𝗘 𝗨𝗥𝗜 𝗙𝗥𝗢𝗠 [𝖬𝗈𝗇𝗀𝗈𝖣𝖡](https://cloud.mongodb.com/)
+* `DATABASE_NAME` 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗖𝗟𝗨𝗦𝗧𝗘𝗥 𝗡𝗔𝗠𝗘.
+* `COLLECTION_NAME` 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗜𝗢𝗡 𝗡𝗔𝗠𝗘.
   
 </details>
 
