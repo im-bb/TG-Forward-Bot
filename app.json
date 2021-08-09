@@ -12,32 +12,32 @@
   "repository": "https://github.com/im-bb/TG-Forward-Bot",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get This Value From https://my.telegram.org or @UseTGXBot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get This Value From https://my.telegram.org or @UseTGXBot",
       "value": ""
     },
     "BOT_TOKEN": {
-      "description": "Your bot token from @BotFather",
+      "description": "Your Bot Token From @BotFather",
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "Username of your Bot without @ , Only give if you want auto starts forwarding when heroku restarts",
+      "description": "Username Of Your Bot Without @ , Only Give If You Want Auto Starts Forwarding When Hroku Restarts",
       "value": "",
       "required": false
     },
     "TO_CHANNEL": {
-      "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
+      "description": "Enter Your Channel Id Must Add Eg:- -100xxxxxxxxx",
       "value": ""
     },
     "DATABASE_URI": {
-      "description": "Get this from cloud.mongodb.com",
+      "description": "Get This From cloud.mongodb.com",
       "value": ""
     },
     "DATABASE_NAME": {
-      "description": "Database cluster name",
+      "description": "Database Cluster Name",
       "value": "Cluster0"
     },
     "COLLECTION_NAME": {
@@ -46,11 +46,11 @@
       "required": false
     },
     "OWNER_ID": {
-      "description": "Enter Your Telegram id",
+      "description": "Enter Your Telegram Id",
       "value": ""
     },
     "SESSION": {
-      "description": "Pyrogram string Session https://repl.it/@subinps/getStringName",
+      "description": "Pyrogram String Session https://repl.it/@subinps/getStringName",
       "value": ""
     }
   },
